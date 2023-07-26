@@ -1,0 +1,4 @@
+#+title: Project Euler Solutions
+
+* About
+My own solution for =Euler Project= in =Rust= with unit test, later rewriten into a singleton.
